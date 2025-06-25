@@ -38,44 +38,74 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
-<div align="center">
-  <table>
-    <tr>
-      <th>Languages</th>
-      <th>Database</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-        <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      </td>
-    </tr>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=javascript" />
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=java" />
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=bash" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <img src="https://skillicons.dev/icons?i=express" />
+      <img src="https://skillicons.dev/icons?i=redux" />
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+      <img src="https://skillicons.dev/icons?i=sass" />
+      <img src="https://skillicons.dev/icons?i=vite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=postgres" />
+      <img src="https://skillicons.dev/icons?i=firebase" />
+      <img src="https://skillicons.dev/icons?i=aws" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Dev Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=github" />
+      <img src="https://skillicons.dev/icons?i=gitlab" />
+      <img src="https://skillicons.dev/icons?i=npm" />
+      <img src="https://skillicons.dev/icons?i=yarn" />
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=chrome" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Deployment & CI/CD</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=netlify" />
+      <img src="https://skillicons.dev/icons?i=githubactions" />
+      <img src="https://skillicons.dev/icons?i=gitlab" />
+    </td>
+  </tr>
+</table>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
