@@ -8,10 +8,10 @@
 -->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About me ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Who’s Behind This Code? ------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Who’s Behind This Code?
 
 I am a pre-final year CSE undergraduate with a robust grounding in full stack engineering, actively seeking an entry-level position to enrich scalable, user-centred software systems.  
 Seasoned in architecting production grade web solutions via the MERN stack, with ancillary fluency in database schemas, cloud-native infrastructure and system design, presently fortifying backend logic, deployment pipelines and architectural resilience through immersive, hands-on execution, guided by a problem solving ethos and collaborative intellect.
@@ -20,7 +20,7 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
 <!--- -- Socials ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## 🌐 Connect With Me:
+## 🌍 My Digital Coordinates:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arjunbir-singh/" target="_blank">
@@ -37,7 +37,7 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> What Powers My Code:
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-  GitHub Stats:
+  My GitHub Insights:
 </h2>
 
 <div align="center">
