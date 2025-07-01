@@ -88,7 +88,6 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
     <td>
       <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=github" />
-      <img src="https://skillicons.dev/icons?i=gitlab" />
       <img src="https://skillicons.dev/icons?i=npm" />
       <img src="https://skillicons.dev/icons?i=yarn" />
       <img src="https://skillicons.dev/icons?i=vscode" />
