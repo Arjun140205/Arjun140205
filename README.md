@@ -101,8 +101,6 @@ Seasoned in architecting production grade web solutions via the MERN stack, with
       <img src="https://skillicons.dev/icons?i=vercel" />
       <img src="https://skillicons.dev/icons?i=netlify" />
       <img src="https://skillicons.dev/icons?i=githubactions" />
-      
-    </td>
   </tr>
 </table>
 
