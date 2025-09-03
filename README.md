@@ -31,7 +31,14 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
   <a href="mailto:arjunbirsingh1699@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://arjunbir-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+  </a>
 </p>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -67,7 +74,7 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
       <img src="https://skillicons.dev/icons?i=tailwind" />
       <img src="https://skillicons.dev/icons?i=bootstrap" />
       <img src="https://skillicons.dev/icons?i=sass" />
-      <img src="https://skillicons.dev/icons?i=vite" />
+      <img src="https://skillicons.dev/icons?i=nextjs" />
     </td>
   </tr>
 
@@ -113,10 +120,17 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun140205&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun140205&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Arjun140205&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800" height="150" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun140205&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun140205&theme=dark&hide_border=true" height="150" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Thanks & Dev Quote -------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
