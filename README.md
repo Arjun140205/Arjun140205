@@ -33,7 +33,7 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
    <a href="https://arjunbir-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://x.com/your_handle" target="_blank">
+  <a href="https://x.com/Arjunbir_singhh" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on%20X-9370DB?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
 </p>
