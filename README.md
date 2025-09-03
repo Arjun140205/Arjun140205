@@ -19,7 +19,7 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
 <!--- -- Socials ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## 🌍 My Digital Coordinates:
+## <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/e2eb0709f7ba004d73ce96e041865c95deeaf80a/Travel%20and%20Places/Compass.webp" alt="Compass" width="25" height="25" /> My Digital Coordinates:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arjunbir-singh/" target="_blank">
