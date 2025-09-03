@@ -30,7 +30,7 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
   </a>
   <a href="mailto:arjunbirsingh1699@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-   <a href="https://arjunbir-portfolio.vercel.app" target="_blank">
+   <a href="https://porfolio-arjunbir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://x.com/Arjunbir_singhh" target="_blank">
