@@ -36,6 +36,9 @@ I am a final year CS undergrad with a robust grounding in full stack engineering
   <a href="https://x.com/Arjunbir_singhh" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on%20X-9370DB?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
+ <a href="https://www.instagram.com/arjunbir_singhh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
