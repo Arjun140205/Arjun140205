@@ -13,7 +13,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Who’s Behind This Code?
 
-I am a final year CS undergrad with a robust grounding in full stack engineering, actively seeking an entry-level position to enrich scalable, user-centred software systems being seasoned in architecting production grade web solutions via the MERN stack, with fluency in database schemas, cloud-native infrastructure and system design, presently fortifying backend logic, deployment pipelines and architectural resilience through immersive, hands-on execution, guided by a problem solving ethos and collaborative intellect.
+I am a final year CS undergraduate with a robust grounding in full stack engineering, actively seeking an entry-level position to enrich scalable, user-centred software systems being seasoned in architecting production grade web solutions via the MERN stack, with fluency in database schemas, cloud-native infrastructure and system design, presently fortifying backend logic, deployment pipelines and architectural resilience through immersive, hands-on execution, guided by a problem solving ethos and collaborative intellect.
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Socials ------------------------------------------------------------------------------------------------------------------------------------------- -->
