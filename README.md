@@ -114,36 +114,25 @@ I am a final year CS major with a robust grounding in full-stack engineering, ac
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="25" />
   My GitHub Insights:
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Arjun140205&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"
-          height="160"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun140205&layout=compact&langs_count=6&theme=dark&hide_border=true"
-          height="160"
-          alt="Top Languages"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com?user=Arjun140205&theme=dark&hide_border=true"
-          height="160"
-          alt="GitHub Streak"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun140205&show_icons=true&theme=dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arjun140205&layout=compact&theme=dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Arjun140205&theme=dark&hide_border=true"
+  />
+</p>
